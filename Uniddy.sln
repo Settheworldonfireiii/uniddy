@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniddy", "Uniddy.csproj", "{D3D42328-59C6-49FF-F534-5815D4343AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniddy.Editor", "Uniddy.Editor.csproj", "{4796CE6D-540F-1740-F96B-C6786EECAAC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D42328-59C6-49FF-F534-5815D4343AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D42328-59C6-49FF-F534-5815D4343AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D42328-59C6-49FF-F534-5815D4343AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D42328-59C6-49FF-F534-5815D4343AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4796CE6D-540F-1740-F96B-C6786EECAAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4796CE6D-540F-1740-F96B-C6786EECAAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4796CE6D-540F-1740-F96B-C6786EECAAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4796CE6D-540F-1740-F96B-C6786EECAAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

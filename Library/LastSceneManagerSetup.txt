@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/OpenCVForUnity/Samples/DetectFaceSample/DetectFaceSample.unity
+  isLoaded: 1
+  isActive: 1
